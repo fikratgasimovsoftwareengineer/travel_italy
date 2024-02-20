@@ -1,0 +1,21 @@
+.top-container{
+    display: flex;
+    flex-wrap: wrap;
+    /*align-content: center;*/
+    align-items: center; /* Vertically center align */
+    margin-left: 600px;
+}
+
+.nav-logo{
+
+    position: absolute; left:-500px;
+}
+.social-links{
+
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+.social-links li{
+    margin-right: 40px;
+}
